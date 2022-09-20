@@ -1,0 +1,14 @@
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/obj/Debug/netcoreapp3.1/Login.Form.csproj.AssemblyReference.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/obj/Debug/netcoreapp3.1/Login.Form.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/obj/Debug/netcoreapp3.1/Login.Form.AssemblyInfoInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/obj/Debug/netcoreapp3.1/Login.Form.AssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/obj/Debug/netcoreapp3.1/Login.Form.csproj.CoreCompileInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/bin/Debug/netcoreapp3.1/Login.Form
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/bin/Debug/netcoreapp3.1/Login.Form.deps.json
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/bin/Debug/netcoreapp3.1/Login.Form.runtimeconfig.json
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/bin/Debug/netcoreapp3.1/Login.Form.runtimeconfig.dev.json
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/bin/Debug/netcoreapp3.1/Login.Form.dll
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/bin/Debug/netcoreapp3.1/Login.Form.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/obj/Debug/netcoreapp3.1/Login.Form.dll
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/obj/Debug/netcoreapp3.1/Login.Form.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/obj/Debug/netcoreapp3.1/Login.Form.genruntimeconfig.cache

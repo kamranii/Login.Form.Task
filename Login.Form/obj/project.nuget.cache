@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "quvwpzXN9toZ8eYVD43cfdQPVvmjqs7oFLY/kz+8pV8s8Mts+RCpFb/rr0fpTHH8BbVSXQZaFQD6LERlghmLog==",
+  "success": true,
+  "projectFilePath": "/Users/kamranimranli/Desktop/CodeAcademy/Login.Form/Login.Form/Login.Form.csproj",
+  "expectedPackageFiles": [
+    "/Users/kamranimranli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

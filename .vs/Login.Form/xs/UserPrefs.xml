@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F9CAB87A-5A97-44C0-82DE-01D1F9D28BB0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Login.Form PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Login.Form/Program.cs">
+    <Files>
+      <File FileName="Login.Form/Program.cs" Line="10" Column="20" />
+      <File FileName="Login.Form/User.cs" Line="9" Column="10" />
+      <File FileName="Login.Form/Database.cs" Line="9" Column="9" />
+      <File FileName="Login.Form/RegistrationOperations.cs" Line="67" Column="51" />
+      <File FileName="Login.Form/VerificationOperations.cs" Line="15" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Login.Form" expanded="True">
+            <Node name="Login.Form" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
